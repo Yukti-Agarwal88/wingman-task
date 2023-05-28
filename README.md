@@ -32,3 +32,8 @@ The app follows a simple structure with the following key files and directories:
 
 ## App Features
    
+![Login](https://github.com/Yukti-Agarwal88/wingman-task/assets/84984749/640a26b0-8bac-42e5-9494-211be20addf5)
+![Verification](https://github.com/Yukti-Agarwal88/wingman-task/assets/84984749/e714aa91-11f6-4300-8479-e5e5ed318f19)
+![Welcom](https://github.com/Yukti-Agarwal88/wingman-task/assets/84984749/cb9e435a-f518-4a6f-b5d5-d86de46851ef)
+![Home](https://github.com/Yukti-Agarwal88/wingman-task/assets/84984749/00ea5048-64e4-4ad8-beaa-72d95df912bd)
+![Homescreen](https://github.com/Yukti-Agarwal88/wingman-task/assets/84984749/367d061b-c49b-45a9-9454-1ab64a5a2ddc)
